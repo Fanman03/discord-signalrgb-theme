@@ -24,6 +24,18 @@
     --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
 }
 
+#app-mount .titleBar-1it3bQ {
+  background: linear-gradient(90deg, var(--header-accent) 0%, var(--header-background) 30%);
+}
+
+#app-mount .wordmark-2u86JB {
+   color: var(--header-primary);
+}
+
+#app-mount .peopleColumn-1wMU14 {
+    background-color: var(--background-primary);
+}
+
 #app-mount .layer-86YKbF .cardFolder-3H4uH4 {
     background-color: var(--background-secondary-alt);
 }
