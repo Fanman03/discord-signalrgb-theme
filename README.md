@@ -3,7 +3,7 @@ A BetterDiscord theme designed to match the UI of [SignalRGB](https://signalrgb.
 
 The fine people in charge of BetterDiscord's offical theme repo won't allow this because its a "minor edit of an existing theme" but that's neither here nor there...
 
-To install this theme, download [this file](https://github.com/Fanman03/discord-signalrgb-theme/releases/download/v1.1.0/SignalRGB.theme.css) and copy it to `%appdata%\BetterDiscord\themes`
+To install this theme, download [this file](https://github.com/Fanman03/signalrgb-discord-theme/releases/download/v2.2.19/SignalRGB.theme.css) and copy it to `%appdata%\BetterDiscord\themes`
 
 
 
