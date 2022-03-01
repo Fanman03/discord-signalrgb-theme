@@ -7,4 +7,4 @@ To install this theme, download [this file](https://github.com/Fanman03/discord-
 
 
 
-![Image of Discord client with custom SignalRGB theme](https://i.imgur.com/81he68G.png)
+![Image of Discord client with custom SignalRGB theme](https://i.imgur.com/bZY4Z8H.png)
