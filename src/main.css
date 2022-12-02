@@ -991,3 +991,131 @@ body #app-mount .theme-light .root-g14mjS .input-m1-Y7Q {
 .panels-3wFtMD {
   background-color: var(--background-primary);
 }
+
+body{
+  background-color: transparent;
+}
+
+#app-mount .titleBar-1it3bQ {
+  background: var(--header-background);
+}
+
+.appMount-2yBXZl {
+  background-color: var(--header-background);
+  border-radius: 10px;
+}
+
+.panels-3wFtMD {
+  background: linear-gradient(
+    45deg,
+    #6b90c8,
+    #5b66af 25%,
+    #7c67a3 50%,
+    #e082be
+  );
+  /* position: fixed;
+  left: 0px;
+  bottom: 0px;
+  width: 304px;
+  padding-left: 4px;
+  padding-right: 4px;
+  border-radius: 0px 0px 0px 8px; */
+}
+
+.sidebar-1tnWFu .wrapper-1_HaEi.guilds-2JjMmN{
+  height: calc(100vh - 85px);
+}
+
+#app-mount .wordmark-2u86JB {
+  color: var(--header-primary);
+}
+
+.button-12Fmur {
+  color: var(--header-primary);
+}
+
+#app-mount .titleBar-1it3bQ {
+  height: 26px;
+  display: flex;
+  justify-content: center;
+}
+
+.winButton-3UMjdg {
+  position: absolute;
+  top: 4px;
+}
+
+.winButton-3UMjdg:hover {
+  background-color: var(--modifier-button-selected);
+  border-radius: 50px;
+}
+
+.wordmarkWindows-2dq6rw {
+  position: inherit;
+  padding: 0px 9px 3px;
+}
+
+.wordmarkWindows-2dq6rw > svg {
+  height: 23px;
+  width: 96px;
+}
+
+.winButton-3UMjdg > svg {
+  color: var(--header-primary);
+}
+
+.winButtonClose-3Q8ZH5.winButton-3UMjdg {
+  right: 5px;
+}
+
+.winButton-3UMjdg:nth-of-type(3) {
+  right: 35px;
+}
+
+.winButton-3UMjdg:nth-of-type(4) {
+  right: 65px;
+}
+
+.codeView-12LUIl.hljs {
+  background-color: var(--background-secondary-alt) !important;
+}
+
+.button-12Fmur.enabled-9OeuTA:hover {
+  border-radius: 50px;
+  background-color: var(--modifier-button-selected);
+}
+
+#app-mount .peopleColumn-1wMU14 {
+  background-color: var(--background-primary);
+}
+
+#app-mount .lookFilled-yCfaCM.colorBrand-I6CyqQ,
+.botTagRegular-kpctgU {
+  background-color: var(--blurple-replace);
+}
+
+.theme-dark .wrapper-1ZcZW- {
+  color: var(--blurple-replace-xlight);
+  background: var(--blurple-replace-light);
+}
+.sendIcon-1HcEzu {
+  color: var(--blurple-replace);
+}
+
+.containerDefault-YUSmu3.selected-2TbFuo > .wrapper-NhbLHG > .content-1gYQeQ {
+  border-left: 4px solid black;
+  border-image: linear-gradient(
+      0deg,
+      #6b90c8,
+      #5b66af 25%,
+      #7c67a3 50%,
+      #e082be
+    )
+    1;
+  border-radius: 5px;
+  background-color: var(--channel-selected-background);
+}
+
+.containerDefault-YUSmu3 > .wrapper-NhbLHG > .content-1gYQeQ {
+  border-left: 4px solid transparent;
+}
